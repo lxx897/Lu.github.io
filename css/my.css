@@ -1,11 +1,3 @@
-/*指针样式*/
-body {
-    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),
-        default;
-}
-/*链接小手样式*/
-a,
-img {
-    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),
-        default;
-}
+/* build time:Mon Mar 31 2025 00:31:12 GMT+0800 (GMT+08:00)*/
+body{cursor:url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),default}a,img{cursor:url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),default}
+/* rebuild by neat */
